@@ -1,6 +1,6 @@
 # Конспект по математике
 
-Для рендера формул на githab установите [расширение для Chrome](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima).
+Для рендера формул на github установите [расширение для Chrome](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima).
 
 ## Введение в анализ
 
